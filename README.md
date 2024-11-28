@@ -11,9 +11,13 @@ k8s的详细介绍见，K8s文件夹。
 
 详细的安装kubernetes的教程见centos文件夹。
 
+[语雀上的笔记](https://www.yuque.com/caocao-osdrq/kndayq/lvz1q9k0yv5s27dc?singleDoc# 《centos安装kubernetes》)
+
 ### 2.从节点Ubuntu
 
 详细的安装kubernetes的教程和加入集群见ubuntu文件夹。
+
+[语雀上的笔记](https://www.yuque.com/caocao-osdrq/kndayq/dcqzzaeelvnh875s?singleDoc# 《UbuntuK8S》)
 
 ### 3.从节点windows
 
